@@ -1,6 +1,6 @@
 # Bark-Shell
 
-:scroll: Another way to maintain lightweight continuous connection
+:scroll: Another way to let robots do stuff for people
 
 # Build Status
 
